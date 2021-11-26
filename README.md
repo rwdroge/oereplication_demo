@@ -4,21 +4,21 @@
 
 # Contents
 
-[Prerequisites 2](#_Toc88814483)
+[Prerequisites](#Prerequisites)
 
-[Setup to do complete Demo 2](#_Toc88814484)
+[Setup to do complete Demo](#_Toc88814484)
 
-[Demonstrate Replication 4](#_Toc88814485)
+[Demonstrate Replication](#_Toc88814485)
 
-[Transition Failover 5](#_Toc88814486)
+[Transition Failover](#_Toc88814486)
 
-[Transition Fail Back 6](#_Toc88814487)
+[Transition Fail Back](#_Toc88814487)
 
-[Primary failure and manual failover 7](#_Toc88814488)
+[Primary failure and manual failover](#_Toc88814488)
 
-[Reseed and restore primary 10](#_Toc88814489)
+[Reseed and restore primary](#_Toc88814489)
 
-[FAIL BACK 12](#_Toc88814490)
+[FAIL BACK](#_Toc88814490)
 
 # Prerequisites
 
