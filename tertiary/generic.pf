@@ -1,0 +1,10 @@
+# generic.pf
+#
+-B 500
+-B2 500
+-L 15000
+-n 25
+-omsize 5000
+-aiarcdir ./aibak
+-aiarcdircreate
+-aiarcinterval 240

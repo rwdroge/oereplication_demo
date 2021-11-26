@@ -1,0 +1,8 @@
+# alternate.pf
+#
+-db primary -S 20000
+-dbalt1 "secondary -S 20001"
+-dbalt2 "tertiary -S 20002"
+-autoReconnect
+-retryConnect 3 
+-retryConnectPause 10

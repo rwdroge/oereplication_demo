@@ -1,0 +1,13 @@
+#not required folders
+/oeauthserver
+/oepas1
+
+
+
+#not required files
+*.log
+/primary/aibak/*
+/secondary/aibak/*
+/tertiary/aibak/*
+/primary/*.lg
+
