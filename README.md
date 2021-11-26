@@ -3,6 +3,8 @@
 This demo script walks through several OE replication scenario's using the sports database.
 In the demo all of the databases are located on the same machine, obviously property files would need adjusting for real-world multi-machine replication.
 
+Original Demo script by Dan Mitchell
+
 # Contents
 
 [Prerequisites](#Prerequisites)
