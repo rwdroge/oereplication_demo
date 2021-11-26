@@ -10,15 +10,15 @@
 
 [Demonstrate Replication](#Demonstrate-Replication)
 
-[Transition Failover](#_Toc88814486)
+[Transition failover](#Transition-failover)
 
-[Transition Fail Back](#_Toc88814487)
+[Transition fail back](#Transition-fail-back)
 
-[Primary failure and manual failover](#_Toc88814488)
+[Primary failure and manual failover](#Primary-failure-and-manual-failover)
 
-[Reseed and restore primary](#_Toc88814489)
+[Reseed and restore primary](#Reseed-and-restore-primary)
 
-[FAIL BACK](#_Toc88814490)
+[Fail back](#Fail-back)
 
 # Prerequisites
 
@@ -73,7 +73,7 @@ export PATH=$PATH:$DLC/bin
 
 1. Replication is working correctly from primary to secondary and tertiary
 
-# Transition Failover
+# Transition failover
 
 1. In /usr/wrk/primary, execute &quot;dsrutil primary -C transition failover&quot;
 
@@ -91,7 +91,7 @@ export PATH=$PATH:$DLC/bin
 
 1. Primary and secondary have reversed roles
 
-# Transition Fail Back
+# Transition fail Back
 
 1. From /usr/wrk/secondary, execute &quot;dsrutil secondary -C transition failover&quot;
 
@@ -192,7 +192,7 @@ export PATH=$PATH:$DLC/bin
 
 1. Yellow is sending and teal and white are processing so primary is now a target
 
-# FAIL BACK
+# Fail back
 
 1. In secondary, ./configfailback.sh
   1. cp secondary.repl.properties.tf secondary.repl.properties
