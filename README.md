@@ -6,9 +6,9 @@
 
 [Prerequisites](#Prerequisites)
 
-[Setup to do complete Demo](#_Toc88814484)
+[Setup to do complete Demo](#Setup-to-do-complete-Demo)
 
-[Demonstrate Replication](#_Toc88814485)
+[Demonstrate Replication](#Demonstrate-Replication)
 
 [Transition Failover](#_Toc88814486)
 
